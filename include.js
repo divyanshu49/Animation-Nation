@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'CircleRod-Circling',
+    pageLink: './Art/DSAnimation/index.html',
+    imageLink: './Art/DSAnimation/ds-gif.gif',
+    author: 'Divyanshu',
+    githubLink: 'https://github.com/divyanshu49'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
